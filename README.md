@@ -1,5 +1,3 @@
-# infinium-network-bot-discord
-
 ![image](https://raw.githubusercontent.com/Infinium-8/brand/master/logo/wordmark/infinium_wordmark_color.png)
 
 # Infinium Network Bot - Discord
