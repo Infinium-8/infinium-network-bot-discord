@@ -3,6 +3,28 @@
 # Infinium Network Bot - Discord
 In this repository you'll find a small Discord bot that will show you information about the Infinium network.
 
+## Install Dependencies
+- Python3
+- PIP
+- Python3 Dependencies  
+  - Requests
+  - Discord.py
+    
+### Install Python3 Dependencies
+```
+sudo python3 -m pip install -r requirements.txt --break-system-packages
+```
+
+## Add your Discord Token
+```
+BOT_TOKEN = "TOKEN"  # Replace with your bot token
+```
+
+## Start
+```
+python3 infinium-network-bot-discord.py
+```
+
 ## Commands Bot
 Use the '!help' command to view the list of commands.
 
@@ -11,7 +33,7 @@ Use the '!help' command to view the list of commands.
   -  !price : Get the price of Infinium.
   -  !donate : Shows addresses to donate to the project.
 
-### Donation 
+## Donation 
 - **INF:** inf1dcjP4BZX9SWtg6EjAG9tF55JmQm2yQQm3doMy77v6pe5nc5TG14WMWRhSDBJsugczwLUU5btJZT67ahRygCg7hLCdUwpai
 - **LTC:** ltc1qmu2dyc4kwp7tsx3jxe6fenqk9qxa3dfkvs76t5
 - **BTC:** bc1qpn8l2mnxs5q9x779ey922gyjdm8qfg3ckrlneg
